@@ -1,4 +1,4 @@
-# Robotic arm for Industrial automation
+# Robotic ARM for Industrial automation
 
 By Uttam Deshpande et. al.,
 
