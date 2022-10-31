@@ -19,9 +19,8 @@ Requirements: Hardware
 * Different kinds of motors
 
 Software:
-○ Python
-○ Linux basic (Raspbian OS)
-
+* Python
+* Linux basic (Raspbian OS)
 
 ## Working
 ![image](https://user-images.githubusercontent.com/107185323/199021816-ddd4070e-7e42-46cb-b6af-cd0c24614d47.png)
@@ -29,10 +28,3 @@ Software:
 Video link of working prototype:  [Robotic ARM](https://drive.google.com/file/d/1uOXmUZUJI2EMvDV2zryVGts9KyAzggfO/view?usp=share_link)
 
 
-
-
-
-## Usage
-
-Taking up this project has given us a new experience of learning about automation, robotics and problem analysis on a large scale. We also got to learn about new tools and operating systems Fusion 360, Raspbian OS, Python, VNC viewer and many more. We started from an industry visit, analysing the problem and then framing a blueprint
-of the solution. Then we researched about the hardware and software requirements. We took up the prototype provided by the company and we ran a few test cases over the software implementation. At the hardware part, we plotted a few 3-D designs of how the arm should look and also listed the vendors who had the mortars and the other hardware requirements. All the requirements were submitted according to the project. The material requirements and the testing code using python has been submitted in our requirement list. Working with Raspberry Pi and prototype for controlling the servo motors was a great experience. Working in a team of 8 has also given us the opportunity to coordinate the work in a very efficient way. In spite of being away from each other, working from home was a challenge but so far we have managed to work by distributing the work.
